@@ -59,7 +59,7 @@ Who do I talk to?
 
     You may also contact Arief Kresnadi Ignatius Kasim at arie0010@e.ntu.edu.sg or Loo Jia Yi at e140112@e.ntu.edu.sg
 
-*** Video :
+***Video :
 
 
 https://user-images.githubusercontent.com/93086649/204490115-515b9390-107a-4db7-b2c8-8eeab9713115.mp4
