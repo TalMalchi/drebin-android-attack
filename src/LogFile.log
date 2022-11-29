@@ -1,0 +1,224 @@
+2022/11/28 19:48:26 GetApkData.py[line:177] INFO: Start to process /home/tal/Downloads/niv_avi_files/samples/good/app85.apk...
+2022/11/28 19:48:26 GetApkData.py[line:177] INFO: Start to process /home/tal/Downloads/niv_avi_files/samples/good/app89.apk...
+2022/11/28 19:48:26 GetApkData.py[line:177] INFO: Start to process /home/tal/Downloads/niv_avi_files/samples/good/app91.apk...
+2022/11/28 19:48:26 CommonModules.py[line:311] INFO: Json data of /home/tal/Downloads/niv_avi_files/samples/good/app85.data written successfully.
+2022/11/28 19:48:26 GetApkData.py[line:223] INFO: /home/tal/Downloads/niv_avi_files/samples/good/app85.apk processed successfully in 0.137100934982s
+2022/11/28 19:48:26 CommonModules.py[line:311] INFO: Json data of /home/tal/Downloads/niv_avi_files/samples/good/app89.data written successfully.
+2022/11/28 19:48:26 GetApkData.py[line:223] INFO: /home/tal/Downloads/niv_avi_files/samples/good/app89.apk processed successfully in 0.248660802841s
+2022/11/28 19:48:28 CommonModules.py[line:311] INFO: Json data of /home/tal/Downloads/niv_avi_files/samples/good/app91.data written successfully.
+2022/11/28 19:48:28 GetApkData.py[line:223] INFO: /home/tal/Downloads/niv_avi_files/samples/good/app91.apk processed successfully in 1.47966003418s
+2022/11/28 19:48:29 CommonModules.py[line:82] INFO: Processing finished.
+2022/11/28 19:48:29 CommonModules.py[line:83] INFO: Processing results: [('/home/tal/Downloads/niv_avi_files/samples/good/app85.apk', True), ('/home/tal/Downloads/niv_avi_files/samples/good/app89.apk', True), ('/home/tal/Downloads/niv_avi_files/samples/good/app91.apk', True)]
+2022/11/28 19:48:29 CommonModules.py[line:84] INFO: Time Elapsed: 3.01s, or 0.05mins, or 0.00hours
+2022/11/28 19:48:29 RandomClassification.py[line:38] INFO: Loaded samples
+2022/11/28 19:48:29 RandomClassification.py[line:49] INFO: Label array - generated
+2022/11/28 19:48:29 RandomClassification.py[line:60] INFO: train-test split done
+2022/11/28 19:48:29 RandomClassification.py[line:63] INFO: Perform Classification with SVM Model
+2022/11/28 19:49:31 GetApkData.py[line:177] INFO: Start to process /home/tal/Downloads/niv_avi_files/samples/bad/app88.apk...
+2022/11/28 19:49:31 GetApkData.py[line:177] INFO: Start to process /home/tal/Downloads/niv_avi_files/samples/bad/app93.apk...
+2022/11/28 19:49:31 CommonModules.py[line:311] INFO: Json data of /home/tal/Downloads/niv_avi_files/samples/bad/app88.data written successfully.
+2022/11/28 19:49:31 GetApkData.py[line:223] INFO: /home/tal/Downloads/niv_avi_files/samples/bad/app88.apk processed successfully in 0.151829004288s
+2022/11/28 19:49:32 CommonModules.py[line:311] INFO: Json data of /home/tal/Downloads/niv_avi_files/samples/bad/app93.data written successfully.
+2022/11/28 19:49:32 GetApkData.py[line:223] INFO: /home/tal/Downloads/niv_avi_files/samples/bad/app93.apk processed successfully in 1.06765198708s
+2022/11/28 19:49:34 CommonModules.py[line:82] INFO: Processing finished.
+2022/11/28 19:49:34 CommonModules.py[line:83] INFO: Processing results: [('/home/tal/Downloads/niv_avi_files/samples/bad/app88.apk', True), ('/home/tal/Downloads/niv_avi_files/samples/bad/app93.apk', True)]
+2022/11/28 19:49:34 CommonModules.py[line:84] INFO: Time Elapsed: 3.04s, or 0.05mins, or 0.00hours
+2022/11/28 19:49:34 RandomClassification.py[line:38] INFO: Loaded samples
+2022/11/28 19:49:34 RandomClassification.py[line:49] INFO: Label array - generated
+2022/11/28 19:49:34 RandomClassification.py[line:60] INFO: train-test split done
+2022/11/28 19:49:34 RandomClassification.py[line:63] INFO: Perform Classification with SVM Model
+2022/11/28 19:55:22 RandomClassification.py[line:38] INFO: Loaded samples
+2022/11/28 19:55:22 RandomClassification.py[line:49] INFO: Label array - generated
+2022/11/28 19:55:22 RandomClassification.py[line:60] INFO: train-test split done
+2022/11/28 19:55:22 RandomClassification.py[line:63] INFO: Perform Classification with SVM Model
+2022/11/28 19:56:24 GetApkData.py[line:177] INFO: Start to process /home/tal/Downloads/niv_avi_files/samples/bad/app93.apk...
+2022/11/28 19:56:24 GetApkData.py[line:177] INFO: Start to process /home/tal/Downloads/niv_avi_files/samples/good/app85.apk...
+2022/11/28 19:56:24 GetApkData.py[line:177] INFO: Start to process /home/tal/Downloads/niv_avi_files/samples/good/app91.apk...
+2022/11/28 19:56:24 CommonModules.py[line:311] INFO: Json data of /home/tal/Downloads/niv_avi_files/samples/good/app85.data written successfully.
+2022/11/28 19:56:24 GetApkData.py[line:223] INFO: /home/tal/Downloads/niv_avi_files/samples/good/app85.apk processed successfully in 0.173537015915s
+2022/11/28 19:56:25 CommonModules.py[line:311] INFO: Json data of /home/tal/Downloads/niv_avi_files/samples/bad/app93.data written successfully.
+2022/11/28 19:56:25 GetApkData.py[line:223] INFO: /home/tal/Downloads/niv_avi_files/samples/bad/app93.apk processed successfully in 1.12815499306s
+2022/11/28 19:56:25 CommonModules.py[line:311] INFO: Json data of /home/tal/Downloads/niv_avi_files/samples/good/app91.data written successfully.
+2022/11/28 19:56:25 GetApkData.py[line:223] INFO: /home/tal/Downloads/niv_avi_files/samples/good/app91.apk processed successfully in 1.18736886978s
+2022/11/28 19:56:27 CommonModules.py[line:82] INFO: Processing finished.
+2022/11/28 19:56:27 CommonModules.py[line:83] INFO: Processing results: [('/home/tal/Downloads/niv_avi_files/samples/good/app85.apk', True), ('/home/tal/Downloads/niv_avi_files/samples/bad/app93.apk', True), ('/home/tal/Downloads/niv_avi_files/samples/good/app91.apk', True)]
+2022/11/28 19:56:27 CommonModules.py[line:84] INFO: Time Elapsed: 3.16s, or 0.05mins, or 0.00hours
+2022/11/28 19:56:27 RandomClassification.py[line:38] INFO: Loaded samples
+2022/11/28 19:56:27 RandomClassification.py[line:49] INFO: Label array - generated
+2022/11/28 19:56:27 RandomClassification.py[line:60] INFO: train-test split done
+2022/11/28 19:56:27 RandomClassification.py[line:63] INFO: Perform Classification with SVM Model
+2022/11/28 19:57:32 GetApkData.py[line:177] INFO: Start to process /home/tal/Downloads/niv_avi_files/samples/good/app6.apk...
+2022/11/28 19:57:32 GetApkData.py[line:177] INFO: Start to process /home/tal/Downloads/niv_avi_files/samples/good/app88.apk...
+2022/11/28 19:57:32 GetApkData.py[line:177] INFO: Start to process /home/tal/Downloads/niv_avi_files/samples/good/app89.apk...
+2022/11/28 19:57:32 CommonModules.py[line:311] INFO: Json data of /home/tal/Downloads/niv_avi_files/samples/good/app88.data written successfully.
+2022/11/28 19:57:32 GetApkData.py[line:223] INFO: /home/tal/Downloads/niv_avi_files/samples/good/app88.apk processed successfully in 0.151506185532s
+2022/11/28 19:57:32 CommonModules.py[line:311] INFO: Json data of /home/tal/Downloads/niv_avi_files/samples/good/app89.data written successfully.
+2022/11/28 19:57:32 GetApkData.py[line:223] INFO: /home/tal/Downloads/niv_avi_files/samples/good/app89.apk processed successfully in 0.153470039368s
+2022/11/28 19:57:34 CommonModules.py[line:82] INFO: Processing finished.
+2022/11/28 19:57:34 CommonModules.py[line:83] INFO: Processing results: [('/home/tal/Downloads/niv_avi_files/samples/good/app88.apk', True), ('/home/tal/Downloads/niv_avi_files/samples/good/app89.apk', True)]
+2022/11/28 19:57:34 CommonModules.py[line:84] INFO: Time Elapsed: 2.02s, or 0.03mins, or 0.00hours
+2022/11/28 19:57:38 CommonModules.py[line:311] INFO: Json data of /home/tal/Downloads/niv_avi_files/samples/good/app6.data written successfully.
+2022/11/28 19:57:38 GetApkData.py[line:223] INFO: /home/tal/Downloads/niv_avi_files/samples/good/app6.apk processed successfully in 6.11514997482s
+2022/11/28 19:57:38 RandomClassification.py[line:38] INFO: Loaded samples
+2022/11/28 19:57:38 RandomClassification.py[line:49] INFO: Label array - generated
+2022/11/28 19:57:38 RandomClassification.py[line:60] INFO: train-test split done
+2022/11/28 19:57:38 RandomClassification.py[line:63] INFO: Perform Classification with SVM Model
+2022/11/28 19:58:39 GetApkData.py[line:177] INFO: Start to process /home/tal/Downloads/niv_avi_files/samples/good/app89 (copy).apk...
+2022/11/28 19:58:39 GetApkData.py[line:177] INFO: Start to process /home/tal/Downloads/niv_avi_files/samples/good/app931.apk...
+2022/11/28 19:58:40 CommonModules.py[line:311] INFO: Json data of /home/tal/Downloads/niv_avi_files/samples/good/app89 (copy).data written successfully.
+2022/11/28 19:58:40 GetApkData.py[line:223] INFO: /home/tal/Downloads/niv_avi_files/samples/good/app89 (copy).apk processed successfully in 0.110434055328s
+2022/11/28 19:58:40 CommonModules.py[line:311] INFO: Json data of /home/tal/Downloads/niv_avi_files/samples/good/app931.data written successfully.
+2022/11/28 19:58:40 GetApkData.py[line:223] INFO: /home/tal/Downloads/niv_avi_files/samples/good/app931.apk processed successfully in 0.870373010635s
+2022/11/28 19:58:41 CommonModules.py[line:82] INFO: Processing finished.
+2022/11/28 19:58:41 CommonModules.py[line:83] INFO: Processing results: [('/home/tal/Downloads/niv_avi_files/samples/good/app89 (copy).apk', True), ('/home/tal/Downloads/niv_avi_files/samples/good/app931.apk', True)]
+2022/11/28 19:58:41 CommonModules.py[line:84] INFO: Time Elapsed: 2.00s, or 0.03mins, or 0.00hours
+2022/11/28 19:58:41 RandomClassification.py[line:38] INFO: Loaded samples
+2022/11/28 19:58:41 RandomClassification.py[line:49] INFO: Label array - generated
+2022/11/28 19:58:41 RandomClassification.py[line:60] INFO: train-test split done
+2022/11/28 19:58:41 RandomClassification.py[line:63] INFO: Perform Classification with SVM Model
+2022/11/28 20:01:05 GetApkData.py[line:177] INFO: Start to process /home/tal/Downloads/niv_avi_files/samples/bad/app93.apk...
+2022/11/28 20:01:05 GetApkData.py[line:177] INFO: Start to process /home/tal/Downloads/niv_avi_files/samples/good/app6.apk...
+2022/11/28 20:01:05 GetApkData.py[line:177] INFO: Start to process /home/tal/Downloads/niv_avi_files/samples/good/app85.apk...
+2022/11/28 20:01:06 CommonModules.py[line:311] INFO: Json data of /home/tal/Downloads/niv_avi_files/samples/good/app85.data written successfully.
+2022/11/28 20:01:06 GetApkData.py[line:223] INFO: /home/tal/Downloads/niv_avi_files/samples/good/app85.apk processed successfully in 0.37872004509s
+2022/11/28 20:01:06 GetApkData.py[line:177] INFO: Start to process /home/tal/Downloads/niv_avi_files/samples/good/app88.apk...
+2022/11/28 20:01:06 CommonModules.py[line:311] INFO: Json data of /home/tal/Downloads/niv_avi_files/samples/good/app88.data written successfully.
+2022/11/28 20:01:06 GetApkData.py[line:223] INFO: /home/tal/Downloads/niv_avi_files/samples/good/app88.apk processed successfully in 0.114499092102s
+2022/11/28 20:01:06 GetApkData.py[line:177] INFO: Start to process /home/tal/Downloads/niv_avi_files/samples/good/app89 (copy).apk...
+2022/11/28 20:01:06 CommonModules.py[line:311] INFO: Json data of /home/tal/Downloads/niv_avi_files/samples/good/app89 (copy).data written successfully.
+2022/11/28 20:01:06 GetApkData.py[line:223] INFO: /home/tal/Downloads/niv_avi_files/samples/good/app89 (copy).apk processed successfully in 0.0817139148712s
+2022/11/28 20:01:06 GetApkData.py[line:177] INFO: Start to process /home/tal/Downloads/niv_avi_files/samples/good/app89.apk...
+2022/11/28 20:01:06 CommonModules.py[line:311] INFO: Json data of /home/tal/Downloads/niv_avi_files/samples/good/app89.data written successfully.
+2022/11/28 20:01:06 GetApkData.py[line:223] INFO: /home/tal/Downloads/niv_avi_files/samples/good/app89.apk processed successfully in 0.102638959885s
+2022/11/28 20:01:06 GetApkData.py[line:177] INFO: Start to process /home/tal/Downloads/niv_avi_files/samples/good/app91.apk...
+2022/11/28 20:01:07 CommonModules.py[line:311] INFO: Json data of /home/tal/Downloads/niv_avi_files/samples/bad/app93.data written successfully.
+2022/11/28 20:01:07 GetApkData.py[line:223] INFO: /home/tal/Downloads/niv_avi_files/samples/bad/app93.apk processed successfully in 1.22951197624s
+2022/11/28 20:01:07 GetApkData.py[line:177] INFO: Start to process /home/tal/Downloads/niv_avi_files/samples/good/app931.apk...
+2022/11/28 20:01:07 CommonModules.py[line:311] INFO: Json data of /home/tal/Downloads/niv_avi_files/samples/good/app91.data written successfully.
+2022/11/28 20:01:07 GetApkData.py[line:223] INFO: /home/tal/Downloads/niv_avi_files/samples/good/app91.apk processed successfully in 1.2247710228s
+2022/11/28 20:01:08 CommonModules.py[line:311] INFO: Json data of /home/tal/Downloads/niv_avi_files/samples/good/app931.data written successfully.
+2022/11/28 20:01:08 GetApkData.py[line:223] INFO: /home/tal/Downloads/niv_avi_files/samples/good/app931.apk processed successfully in 1.01617503166s
+2022/11/28 20:01:12 CommonModules.py[line:311] INFO: Json data of /home/tal/Downloads/niv_avi_files/samples/good/app6.data written successfully.
+2022/11/28 20:01:12 GetApkData.py[line:223] INFO: /home/tal/Downloads/niv_avi_files/samples/good/app6.apk processed successfully in 6.56516098976s
+2022/11/28 20:01:12 CommonModules.py[line:82] INFO: Processing finished.
+2022/11/28 20:01:12 CommonModules.py[line:83] INFO: Processing results: [('/home/tal/Downloads/niv_avi_files/samples/good/app85.apk', True), ('/home/tal/Downloads/niv_avi_files/samples/good/app88.apk', True), ('/home/tal/Downloads/niv_avi_files/samples/good/app89 (copy).apk', True), ('/home/tal/Downloads/niv_avi_files/samples/good/app89.apk', True), ('/home/tal/Downloads/niv_avi_files/samples/bad/app93.apk', True), ('/home/tal/Downloads/niv_avi_files/samples/good/app91.apk', True), ('/home/tal/Downloads/niv_avi_files/samples/good/app931.apk', True), ('/home/tal/Downloads/niv_avi_files/samples/good/app6.apk', True)]
+2022/11/28 20:01:12 CommonModules.py[line:84] INFO: Time Elapsed: 6.62s, or 0.11mins, or 0.00hours
+2022/11/28 20:01:12 RandomClassification.py[line:38] INFO: Loaded samples
+2022/11/28 20:01:12 RandomClassification.py[line:49] INFO: Label array - generated
+2022/11/28 20:01:12 RandomClassification.py[line:60] INFO: train-test split done
+2022/11/28 20:01:12 RandomClassification.py[line:63] INFO: Perform Classification with SVM Model
+2022/11/28 20:02:51 GetApkData.py[line:177] INFO: Start to process /home/tal/Downloads/niv_avi_files/samples/bad/app61.apk...
+2022/11/28 20:02:51 GetApkData.py[line:177] INFO: Start to process /home/tal/Downloads/niv_avi_files/samples/bad/app818.apk...
+2022/11/28 20:02:52 CommonModules.py[line:311] INFO: Json data of /home/tal/Downloads/niv_avi_files/samples/bad/app818.data written successfully.
+2022/11/28 20:02:52 GetApkData.py[line:223] INFO: /home/tal/Downloads/niv_avi_files/samples/bad/app818.apk processed successfully in 0.183038949966s
+2022/11/28 20:02:53 CommonModules.py[line:82] INFO: Processing finished.
+2022/11/28 20:02:53 CommonModules.py[line:83] INFO: Processing results: [('/home/tal/Downloads/niv_avi_files/samples/bad/app818.apk', True)]
+2022/11/28 20:02:53 CommonModules.py[line:84] INFO: Time Elapsed: 2.07s, or 0.03mins, or 0.00hours
+2022/11/28 20:02:57 CommonModules.py[line:311] INFO: Json data of /home/tal/Downloads/niv_avi_files/samples/bad/app61.data written successfully.
+2022/11/28 20:02:57 GetApkData.py[line:223] INFO: /home/tal/Downloads/niv_avi_files/samples/bad/app61.apk processed successfully in 5.25064301491s
+2022/11/28 20:02:57 RandomClassification.py[line:38] INFO: Loaded samples
+2022/11/28 20:02:57 RandomClassification.py[line:49] INFO: Label array - generated
+2022/11/28 20:02:57 RandomClassification.py[line:60] INFO: train-test split done
+2022/11/28 20:02:57 RandomClassification.py[line:63] INFO: Perform Classification with SVM Model
+2022/11/28 20:02:57 RandomClassification.py[line:70] INFO: Processing time to train and find best model with GridSearchCV is 0.25 sec.
+2022/11/28 20:02:57 RandomClassification.py[line:72] INFO: Best Model Selected : LinearSVC(C=0.001, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='squared_hinge', max_iter=1000,
+     multi_class='ovr', penalty='l2', random_state=None, tol=0.0001,
+     verbose=0)
+2022/11/28 20:40:31 RandomClassification.py[line:38] INFO: Loaded samples
+2022/11/28 20:40:31 RandomClassification.py[line:49] INFO: Label array - generated
+2022/11/28 20:40:31 RandomClassification.py[line:60] INFO: train-test split done
+2022/11/28 20:40:31 RandomClassification.py[line:63] INFO: Perform Classification with SVM Model
+2022/11/28 20:40:31 RandomClassification.py[line:70] INFO: Processing time to train and find best model with GridSearchCV is 0.25 sec.
+2022/11/28 20:40:31 RandomClassification.py[line:72] INFO: Best Model Selected : LinearSVC(C=0.001, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='squared_hinge', max_iter=1000,
+     multi_class='ovr', penalty='l2', random_state=None, tol=0.0001,
+     verbose=0)
+2022/11/28 20:46:34 RandomClassification.py[line:38] INFO: Loaded samples
+2022/11/28 20:46:34 RandomClassification.py[line:49] INFO: Label array - generated
+2022/11/28 20:46:34 RandomClassification.py[line:60] INFO: train-test split done
+2022/11/28 20:46:34 RandomClassification.py[line:63] INFO: Perform Classification with SVM Model
+2022/11/28 20:47:50 GetApkData.py[line:177] INFO: Start to process /home/tal/Downloads/niv_avi_files/samples/bad/app61.apk...
+2022/11/28 20:47:50 GetApkData.py[line:177] INFO: Start to process /home/tal/Downloads/niv_avi_files/samples/bad/app818.apk...
+2022/11/28 20:47:50 GetApkData.py[line:177] INFO: Start to process /home/tal/Downloads/niv_avi_files/samples/bad/app93.apk...
+2022/11/28 20:47:50 CommonModules.py[line:311] INFO: Json data of /home/tal/Downloads/niv_avi_files/samples/bad/app818.data written successfully.
+2022/11/28 20:47:50 GetApkData.py[line:223] INFO: /home/tal/Downloads/niv_avi_files/samples/bad/app818.apk processed successfully in 0.147882938385s
+2022/11/28 20:47:50 GetApkData.py[line:177] INFO: Start to process /home/tal/Downloads/niv_avi_files/samples/good/app6.apk...
+2022/11/28 20:47:51 CommonModules.py[line:311] INFO: Json data of /home/tal/Downloads/niv_avi_files/samples/bad/app93.data written successfully.
+2022/11/28 20:47:51 GetApkData.py[line:223] INFO: /home/tal/Downloads/niv_avi_files/samples/bad/app93.apk processed successfully in 1.12222194672s
+2022/11/28 20:47:51 GetApkData.py[line:177] INFO: Start to process /home/tal/Downloads/niv_avi_files/samples/good/app85.apk...
+2022/11/28 20:47:51 CommonModules.py[line:311] INFO: Json data of /home/tal/Downloads/niv_avi_files/samples/good/app85.data written successfully.
+2022/11/28 20:47:51 GetApkData.py[line:223] INFO: /home/tal/Downloads/niv_avi_files/samples/good/app85.apk processed successfully in 0.104259967804s
+2022/11/28 20:47:51 GetApkData.py[line:177] INFO: Start to process /home/tal/Downloads/niv_avi_files/samples/good/app88.apk...
+2022/11/28 20:47:51 CommonModules.py[line:311] INFO: Json data of /home/tal/Downloads/niv_avi_files/samples/good/app88.data written successfully.
+2022/11/28 20:47:51 GetApkData.py[line:223] INFO: /home/tal/Downloads/niv_avi_files/samples/good/app88.apk processed successfully in 0.212068080902s
+2022/11/28 20:47:51 GetApkData.py[line:177] INFO: Start to process /home/tal/Downloads/niv_avi_files/samples/good/app89 (copy).apk...
+2022/11/28 20:47:52 CommonModules.py[line:311] INFO: Json data of /home/tal/Downloads/niv_avi_files/samples/good/app89 (copy).data written successfully.
+2022/11/28 20:47:52 GetApkData.py[line:223] INFO: /home/tal/Downloads/niv_avi_files/samples/good/app89 (copy).apk processed successfully in 0.256875038147s
+2022/11/28 20:47:52 GetApkData.py[line:177] INFO: Start to process /home/tal/Downloads/niv_avi_files/samples/good/app89.apk...
+2022/11/28 20:47:52 CommonModules.py[line:311] INFO: Json data of /home/tal/Downloads/niv_avi_files/samples/good/app89.data written successfully.
+2022/11/28 20:47:52 GetApkData.py[line:223] INFO: /home/tal/Downloads/niv_avi_files/samples/good/app89.apk processed successfully in 0.0944581031799s
+2022/11/28 20:47:52 GetApkData.py[line:177] INFO: Start to process /home/tal/Downloads/niv_avi_files/samples/good/app91.apk...
+2022/11/28 20:47:53 CommonModules.py[line:311] INFO: Json data of /home/tal/Downloads/niv_avi_files/samples/good/app91.data written successfully.
+2022/11/28 20:47:53 GetApkData.py[line:223] INFO: /home/tal/Downloads/niv_avi_files/samples/good/app91.apk processed successfully in 1.19837999344s
+2022/11/28 20:47:53 GetApkData.py[line:177] INFO: Start to process /home/tal/Downloads/niv_avi_files/samples/good/app931.apk...
+2022/11/28 20:47:54 CommonModules.py[line:311] INFO: Json data of /home/tal/Downloads/niv_avi_files/samples/good/app931.data written successfully.
+2022/11/28 20:47:54 GetApkData.py[line:223] INFO: /home/tal/Downloads/niv_avi_files/samples/good/app931.apk processed successfully in 1.01884698868s
+2022/11/28 20:47:57 CommonModules.py[line:82] INFO: Processing finished.
+2022/11/28 20:47:57 CommonModules.py[line:83] INFO: Processing results: [('/home/tal/Downloads/niv_avi_files/samples/bad/app818.apk', True), ('/home/tal/Downloads/niv_avi_files/samples/bad/app93.apk', True), ('/home/tal/Downloads/niv_avi_files/samples/good/app85.apk', True), ('/home/tal/Downloads/niv_avi_files/samples/good/app88.apk', True), ('/home/tal/Downloads/niv_avi_files/samples/good/app89 (copy).apk', True), ('/home/tal/Downloads/niv_avi_files/samples/good/app89.apk', True), ('/home/tal/Downloads/niv_avi_files/samples/good/app91.apk', True), ('/home/tal/Downloads/niv_avi_files/samples/good/app931.apk', True)]
+2022/11/28 20:47:57 CommonModules.py[line:84] INFO: Time Elapsed: 7.09s, or 0.12mins, or 0.00hours
+2022/11/28 20:47:57 CommonModules.py[line:311] INFO: Json data of /home/tal/Downloads/niv_avi_files/samples/bad/app61.data written successfully.
+2022/11/28 20:47:57 GetApkData.py[line:223] INFO: /home/tal/Downloads/niv_avi_files/samples/bad/app61.apk processed successfully in 7.06189417839s
+2022/11/28 20:47:57 CommonModules.py[line:311] INFO: Json data of /home/tal/Downloads/niv_avi_files/samples/good/app6.data written successfully.
+2022/11/28 20:47:57 GetApkData.py[line:223] INFO: /home/tal/Downloads/niv_avi_files/samples/good/app6.apk processed successfully in 7.24666905403s
+2022/11/28 20:47:57 RandomClassification.py[line:38] INFO: Loaded samples
+2022/11/28 20:47:57 RandomClassification.py[line:49] INFO: Label array - generated
+2022/11/28 20:47:57 RandomClassification.py[line:60] INFO: train-test split done
+2022/11/28 20:47:57 RandomClassification.py[line:63] INFO: Perform Classification with SVM Model
+2022/11/28 20:47:58 RandomClassification.py[line:70] INFO: Processing time to train and find best model with GridSearchCV is 0.26 sec.
+2022/11/28 20:47:58 RandomClassification.py[line:72] INFO: Best Model Selected : LinearSVC(C=0.001, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='squared_hinge', max_iter=1000,
+     multi_class='ovr', penalty='l2', random_state=None, tol=0.0001,
+     verbose=0)
+2022/11/28 20:48:27 GetApkData.py[line:177] INFO: Start to process /home/tal/Downloads/niv_avi_files/samples/bad/app61.apk...
+2022/11/28 20:48:27 GetApkData.py[line:177] INFO: Start to process /home/tal/Downloads/niv_avi_files/samples/bad/app818.apk...
+2022/11/28 20:48:27 GetApkData.py[line:177] INFO: Start to process /home/tal/Downloads/niv_avi_files/samples/bad/app93.apk...
+2022/11/28 20:48:28 CommonModules.py[line:311] INFO: Json data of /home/tal/Downloads/niv_avi_files/samples/bad/app818.data written successfully.
+2022/11/28 20:48:28 GetApkData.py[line:223] INFO: /home/tal/Downloads/niv_avi_files/samples/bad/app818.apk processed successfully in 0.176664113998s
+2022/11/28 20:48:28 GetApkData.py[line:177] INFO: Start to process /home/tal/Downloads/niv_avi_files/samples/good/app6.apk...
+2022/11/28 20:48:29 CommonModules.py[line:311] INFO: Json data of /home/tal/Downloads/niv_avi_files/samples/bad/app93.data written successfully.
+2022/11/28 20:48:29 GetApkData.py[line:223] INFO: /home/tal/Downloads/niv_avi_files/samples/bad/app93.apk processed successfully in 1.3658759594s
+2022/11/28 20:48:29 GetApkData.py[line:177] INFO: Start to process /home/tal/Downloads/niv_avi_files/samples/good/app85.apk...
+2022/11/28 20:48:29 CommonModules.py[line:311] INFO: Json data of /home/tal/Downloads/niv_avi_files/samples/good/app85.data written successfully.
+2022/11/28 20:48:29 GetApkData.py[line:223] INFO: /home/tal/Downloads/niv_avi_files/samples/good/app85.apk processed successfully in 0.112500905991s
+2022/11/28 20:48:29 GetApkData.py[line:177] INFO: Start to process /home/tal/Downloads/niv_avi_files/samples/good/app88.apk...
+2022/11/28 20:48:29 CommonModules.py[line:311] INFO: Json data of /home/tal/Downloads/niv_avi_files/samples/good/app88.data written successfully.
+2022/11/28 20:48:29 GetApkData.py[line:223] INFO: /home/tal/Downloads/niv_avi_files/samples/good/app88.apk processed successfully in 0.116058826447s
+2022/11/28 20:48:29 GetApkData.py[line:177] INFO: Start to process /home/tal/Downloads/niv_avi_files/samples/good/app89 (copy).apk...
+2022/11/28 20:48:29 CommonModules.py[line:311] INFO: Json data of /home/tal/Downloads/niv_avi_files/samples/good/app89 (copy).data written successfully.
+2022/11/28 20:48:29 GetApkData.py[line:223] INFO: /home/tal/Downloads/niv_avi_files/samples/good/app89 (copy).apk processed successfully in 0.223465919495s
+2022/11/28 20:48:29 GetApkData.py[line:177] INFO: Start to process /home/tal/Downloads/niv_avi_files/samples/good/app89.apk...
+2022/11/28 20:48:29 CommonModules.py[line:311] INFO: Json data of /home/tal/Downloads/niv_avi_files/samples/good/app89.data written successfully.
+2022/11/28 20:48:29 GetApkData.py[line:223] INFO: /home/tal/Downloads/niv_avi_files/samples/good/app89.apk processed successfully in 0.15493106842s
+2022/11/28 20:48:29 GetApkData.py[line:177] INFO: Start to process /home/tal/Downloads/niv_avi_files/samples/good/app91.apk...
+2022/11/28 20:48:31 CommonModules.py[line:311] INFO: Json data of /home/tal/Downloads/niv_avi_files/samples/good/app91.data written successfully.
+2022/11/28 20:48:31 GetApkData.py[line:223] INFO: /home/tal/Downloads/niv_avi_files/samples/good/app91.apk processed successfully in 1.53643393517s
+2022/11/28 20:48:31 GetApkData.py[line:177] INFO: Start to process /home/tal/Downloads/niv_avi_files/samples/good/app931.apk...
+2022/11/28 20:48:32 CommonModules.py[line:311] INFO: Json data of /home/tal/Downloads/niv_avi_files/samples/good/app931.data written successfully.
+2022/11/28 20:48:32 GetApkData.py[line:223] INFO: /home/tal/Downloads/niv_avi_files/samples/good/app931.apk processed successfully in 1.4133348465s
+2022/11/28 20:48:33 CommonModules.py[line:82] INFO: Processing finished.
+2022/11/28 20:48:33 CommonModules.py[line:83] INFO: Processing results: [('/home/tal/Downloads/niv_avi_files/samples/bad/app818.apk', True), ('/home/tal/Downloads/niv_avi_files/samples/bad/app93.apk', True), ('/home/tal/Downloads/niv_avi_files/samples/good/app85.apk', True), ('/home/tal/Downloads/niv_avi_files/samples/good/app88.apk', True), ('/home/tal/Downloads/niv_avi_files/samples/good/app89 (copy).apk', True), ('/home/tal/Downloads/niv_avi_files/samples/good/app89.apk', True), ('/home/tal/Downloads/niv_avi_files/samples/good/app91.apk', True), ('/home/tal/Downloads/niv_avi_files/samples/good/app931.apk', True)]
+2022/11/28 20:48:33 CommonModules.py[line:84] INFO: Time Elapsed: 6.17s, or 0.10mins, or 0.00hours
+2022/11/28 20:48:35 CommonModules.py[line:311] INFO: Json data of /home/tal/Downloads/niv_avi_files/samples/bad/app61.data written successfully.
+2022/11/28 20:48:35 GetApkData.py[line:223] INFO: /home/tal/Downloads/niv_avi_files/samples/bad/app61.apk processed successfully in 7.91327285767s
+2022/11/28 20:48:35 CommonModules.py[line:311] INFO: Json data of /home/tal/Downloads/niv_avi_files/samples/good/app6.data written successfully.
+2022/11/28 20:48:35 GetApkData.py[line:223] INFO: /home/tal/Downloads/niv_avi_files/samples/good/app6.apk processed successfully in 7.91108703613s
+2022/11/28 20:48:36 RandomClassification.py[line:38] INFO: Loaded samples
+2022/11/28 20:48:36 RandomClassification.py[line:49] INFO: Label array - generated
+2022/11/28 20:48:36 RandomClassification.py[line:60] INFO: train-test split done
+2022/11/28 20:48:36 RandomClassification.py[line:63] INFO: Perform Classification with SVM Model
+2022/11/28 20:48:36 RandomClassification.py[line:70] INFO: Processing time to train and find best model with GridSearchCV is 0.42 sec.
+2022/11/28 20:48:36 RandomClassification.py[line:72] INFO: Best Model Selected : LinearSVC(C=0.001, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='squared_hinge', max_iter=1000,
+     multi_class='ovr', penalty='l2', random_state=None, tol=0.0001,
+     verbose=0)

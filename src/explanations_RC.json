@@ -1,173 +1,201 @@
 {
-    "agency.contra.apps.kpmg.kpmgglobaltaxevent.data": {
+    "app6.data": {
         "predicted_label": -1.0, 
         "original_label": -1.0, 
         "top_features": [
             [
-                -0.0, 
-                "servicelist_com.framework.download.downloadservice"
+                4.191161430968628e-05, 
+                "requestedpermissionlist_android.permission.access_fine_location"
             ], 
             [
-                -0.0, 
-                "servicelist_com.google.analytics.tracking.android.campaigntrackingservice"
+                4.191161430968628e-05, 
+                "requestedpermissionlist_android.permission.call_phone"
             ], 
             [
-                -0.0, 
-                "servicelist_com.usage.mmsdk.monitoringappsservice"
+                4.191161430968628e-05, 
+                "requestedpermissionlist_android.permission.flashlight"
             ], 
             [
-                -0.0, 
-                "suspiciousapilist_landroid/app/application.getsystemservice"
+                4.191161430968628e-05, 
+                "requestedpermissionlist_android.permission.get_accounts"
             ], 
             [
-                0.0, 
-                "suspiciousapilist_landroid/telephony/smsmanager.sendtextmessage"
+                4.191161430968628e-05, 
+                "requestedpermissionlist_android.permission.get_tasks"
             ], 
             [
-                -0.0, 
-                "suspiciousapilist_landroid/telephony/telephonymanager.getdeviceid"
+                4.191161430968628e-05, 
+                "requestedpermissionlist_android.permission.mount_unmount_filesystems"
             ], 
             [
-                -0.0, 
-                "suspiciousapilist_landroid/telephony/telephonymanager.getsimcountryiso"
+                4.191161430968628e-05, 
+                "requestedpermissionlist_android.permission.set_wallpaper"
             ], 
             [
-                0.0, 
-                "suspiciousapilist_landroid/telephony/telephonymanager.getsubscriberid"
+                4.191161430968628e-05, 
+                "requestedpermissionlist_com.android.browser.permission.read_history_bookmarks"
             ], 
             [
-                0.0, 
-                "suspiciousapilist_landroid/view/keyevent.getdeviceid"
+                4.191161430968628e-05, 
+                "requestedpermissionlist_com.android.browser.permission.write_history_bookmarks"
             ], 
             [
-                -0.0, 
-                "suspiciousapilist_landroid/view/motionevent.getdeviceid"
+                4.191161430968628e-05, 
+                "requestedpermissionlist_com.android.launcher.permission.install_shortcut"
             ], 
             [
-                -0.0, 
-                "suspiciousapilist_ljava/lang/runtime;->exec"
+                4.191161430968628e-05, 
+                "requestedpermissionlist_com.android.launcher.permission.read_settings"
             ], 
             [
-                -0.0, 
-                "suspiciousapilist_lorg/apache/http/client/methods/httppost"
+                4.191161430968628e-05, 
+                "requestedpermissionlist_com.android.launcher.permission.uninstall_shortcut"
             ], 
             [
-                -0.0, 
-                "urldomainlist_54.87.240.134"
+                4.191161430968628e-05, 
+                "requestedpermissionlist_com.fede.launcher.permission.read_settings"
             ], 
             [
-                -0.0, 
+                4.191161430968628e-05, 
+                "requestedpermissionlist_com.htc.launcher.permission.read_settings"
+            ], 
+            [
+                4.191161430968628e-05, 
+                "requestedpermissionlist_com.lge.launcher.permission.install_shortcut"
+            ], 
+            [
+                4.191161430968628e-05, 
+                "requestedpermissionlist_com.lge.launcher.permission.read_settings"
+            ], 
+            [
+                4.191161430968628e-05, 
+                "requestedpermissionlist_com.motorola.dlauncher.permission.install_shortcut"
+            ], 
+            [
+                4.191161430968628e-05, 
+                "requestedpermissionlist_com.motorola.dlauncher.permission.read_settings"
+            ], 
+            [
+                4.191161430968628e-05, 
+                "requestedpermissionlist_com.motorola.launcher.permission.install_shortcut"
+            ], 
+            [
+                4.191161430968628e-05, 
+                "requestedpermissionlist_com.motorola.launcher.permission.read_settings"
+            ], 
+            [
+                4.191161430968628e-05, 
+                "requestedpermissionlist_org.adw.launcher.permission.read_settings"
+            ], 
+            [
+                4.191161430968628e-05, 
+                "servicelist_.iconprovider"
+            ], 
+            [
+                4.191161430968628e-05, 
+                "servicelist_com.airpush.android.pushservice"
+            ], 
+            [
+                4.191161430968628e-05, 
+                "servicelist_com.apperhand.device.android.androidsdkprovider"
+            ], 
+            [
+                4.191161430968628e-05, 
+                "servicelist_com.jasonwu.pushads.mobadsprovider"
+            ], 
+            [
+                4.191161430968628e-05, 
+                "suspiciousapilist_landroidtop/specialforces/specialforces.getsystemservice"
+            ], 
+            [
+                4.191161430968628e-05, 
                 "usedpermissionslist_android.permission.access_fine_location"
             ], 
             [
-                -0.0, 
-                "usedpermissionslist_android.permission.access_wifi_state"
+                4.191161430968628e-05, 
+                "usedpermissionslist_android.permission.vibrate"
             ], 
             [
-                -0.0, 
-                "usedpermissionslist_android.permission.disable_keyguard"
+                4.191161430968628e-05, 
+                "usedpermissionslist_android.permission.wake_lock"
             ], 
             [
-                -0.0, 
-                "usedpermissionslist_android.permission.get_accounts"
-            ], 
-            [
-                -0.0, 
-                "usedpermissionslist_android.permission.get_tasks"
-            ], 
-            [
-                0.0, 
-                "usedpermissionslist_android.permission.read_contacts"
-            ], 
-            [
-                0.0, 
-                "usedpermissionslist_android.permission.read_phone_state"
-            ], 
-            [
-                -0.0, 
-                "usedpermissionslist_android.permission.restart_packages"
-            ], 
-            [
-                0.0, 
-                "usedpermissionslist_android.permission.send_sms"
-            ], 
-            [
-                -0.0, 
-                "usedpermissionslist_android.permission.write_external_storage"
-            ], 
-            [
-                4.9584334953189173e-05, 
-                "intentfilterlist_android.intent.action.main"
-            ], 
-            [
-                7.4601061720104463e-05, 
-                ""
-            ], 
-            [
-                7.4601061720104463e-05, 
-                "suspiciousapilist_landroid/content/context.getsystemservice"
-            ], 
-            [
-                0.00011292780979781939, 
-                "requestedpermissionlist_android.permission.internet"
-            ], 
-            [
-                0.00018002054265122918, 
-                "suspiciousapilist_landroid/support/v4/app/fragmentactivity.getsystemservice"
-            ], 
-            [
-                0.00020658651071192932, 
-                "restrictedapilist_android.support.v4.view.accessibility.accessibilitynodeprovidercompat.performaction"
-            ], 
-            [
-                0.00020658651071192932, 
-                "restrictedapilist_android.support.v4.view.accessibility.accessibilitynodeprovidercompatjellybean$accessibilitynodeinfobridge.performaction"
+                4.191161430968628e-05, 
+                "usedpermissionslist_com.android.browser.permission.read_history_bookmarks"
             ]
         ]
     }, 
-    "air.air.FootballTacticsAndroid.data": {
+    "app85.data": {
         "predicted_label": -1.0, 
         "original_label": -1.0, 
         "top_features": [
             [
                 -0.0, 
-                "suspiciousapilist_landroid/app/application.getsystemservice"
-            ], 
-            [
-                0.0, 
-                "suspiciousapilist_landroid/content/context.getsystemservice"
-            ], 
-            [
-                0.0, 
-                "suspiciousapilist_landroid/support/v4/app/fragmentactivity.getsystemservice"
-            ], 
-            [
-                0.0, 
-                "suspiciousapilist_landroid/telephony/smsmanager.sendtextmessage"
+                "restrictedapilist_android.location.locationmanager.getlastknownlocation"
             ], 
             [
                 -0.0, 
-                "suspiciousapilist_landroid/telephony/telephonymanager.getdeviceid"
+                "restrictedapilist_android.telephony.telephonymanager.getcelllocation"
             ], 
             [
                 -0.0, 
-                "suspiciousapilist_landroid/telephony/telephonymanager.getsimcountryiso"
+                "servicelist_.fixedupdate"
             ], 
             [
                 0.0, 
+                "servicelist_.iconprovider"
+            ], 
+            [
+                0.0, 
+                "servicelist_.securityservice"
+            ], 
+            [
+                0.0, 
+                "servicelist_com.airpush.android.pushservice"
+            ], 
+            [
+                0.0, 
+                "servicelist_com.apperhand.device.android.androidsdkprovider"
+            ], 
+            [
+                -0.0, 
+                "servicelist_com.google.update.updateservice"
+            ], 
+            [
+                0.0, 
+                "servicelist_com.jasonwu.pushads.mobadsprovider"
+            ], 
+            [
+                -0.0, 
+                "servicelist_com.tencent.tools.boots"
+            ], 
+            [
+                -0.0, 
+                "suspiciousapilist_landroid/app/activity.getsystemservice"
+            ], 
+            [
+                -0.0, 
+                "suspiciousapilist_landroid/content/pm/packagemanager.getpackageinfo"
+            ], 
+            [
+                -0.0, 
+                "suspiciousapilist_landroid/net/wifi/wifimanager.getwifistate"
+            ], 
+            [
+                -0.0, 
+                "suspiciousapilist_landroid/net/wifi/wifimanager.setwifienabled"
+            ], 
+            [
+                0.0, 
+                "suspiciousapilist_landroid/telephony/smsmessage;->getmessagebody"
+            ], 
+            [
+                -0.0, 
                 "suspiciousapilist_landroid/telephony/telephonymanager.getsubscriberid"
             ], 
             [
                 0.0, 
-                "suspiciousapilist_landroid/view/keyevent.getdeviceid"
-            ], 
-            [
-                -0.0, 
-                "suspiciousapilist_landroid/view/motionevent.getdeviceid"
-            ], 
-            [
-                -0.0, 
-                "suspiciousapilist_ljava/io/ioexception;->printstacktrace"
+                "suspiciousapilist_landroidtop/specialforces/specialforces.getsystemservice"
             ], 
             [
                 -0.0, 
@@ -179,10 +207,18 @@
             ], 
             [
                 -0.0, 
-                "urldomainlist_54.87.240.134"
+                "suspiciousapilist_system/bin/su"
             ], 
             [
                 -0.0, 
+                "urldomainlist_10.0.0.172"
+            ], 
+            [
+                -0.0, 
+                "urldomainlist_222.73.127.57"
+            ], 
+            [
+                0.0, 
                 "usedpermissionslist_android.permission.access_fine_location"
             ], 
             [
@@ -195,15 +231,7 @@
             ], 
             [
                 -0.0, 
-                "usedpermissionslist_android.permission.disable_keyguard"
-            ], 
-            [
-                -0.0, 
-                "usedpermissionslist_android.permission.get_accounts"
-            ], 
-            [
-                -0.0, 
-                "usedpermissionslist_android.permission.get_tasks"
+                "usedpermissionslist_android.permission.change_wifi_state"
             ], 
             [
                 -0.0, 
@@ -211,547 +239,141 @@
             ], 
             [
                 0.0, 
-                "usedpermissionslist_android.permission.read_contacts"
-            ], 
-            [
-                0.0, 
-                "usedpermissionslist_android.permission.read_phone_state"
-            ], 
-            [
-                -0.0, 
-                "usedpermissionslist_android.permission.restart_packages"
-            ], 
-            [
-                0.0, 
-                "usedpermissionslist_android.permission.send_sms"
-            ], 
-            [
-                -0.0, 
-                "usedpermissionslist_android.permission.vibrate"
-            ], 
-            [
-                -0.0, 
-                "usedpermissionslist_android.permission.wake_lock"
-            ], 
-            [
-                -0.0, 
-                "usedpermissionslist_android.permission.write_external_storage"
-            ], 
-            [
-                9.1938434289998142e-05, 
-                "intentfilterlist_android.intent.action.main"
-            ], 
-            [
-                0.00013832402546878932, 
-                ""
-            ], 
-            [
-                0.00020938883279188658, 
-                "requestedpermissionlist_android.permission.internet"
-            ]
-        ]
-    }, 
-    "gen10_07fcf9ff-3625-46e8-b470-29ee05877e0a_app-release.data": {
-        "predicted_label": 1.0, 
-        "original_label": 1.0, 
-        "top_features": [
-            [
-                0.00052327944701919995, 
-                "usedpermissionslist_android.permission.send_sms"
-            ], 
-            [
-                0.00052327944701919995, 
-                "requestedpermissionlist_android.permission.send_sms"
-            ], 
-            [
-                0.00042780663980564984, 
-                "suspiciousapilist_landroid/view/keyevent.getdeviceid"
-            ], 
-            [
-                0.00040753119659113642, 
-                "restrictedapilist_android.support.v4.net.connectivitymanagercompatjellybean.isactivenetworkmetered"
-            ], 
-            [
-                0.00040753119659113642, 
-                "restrictedapilist_android.support.v4.net.connectivitymanagercompathoneycombmr2.isactivenetworkmetered"
-            ], 
-            [
-                0.00040753119659113642, 
-                "restrictedapilist_android.support.v4.net.connectivitymanagercompatgingerbread.isactivenetworkmetered"
-            ], 
-            [
-                0.00040753119659113642, 
-                "restrictedapilist_android.support.v4.net.connectivitymanagercompat$connectivitymanagercompatimpl.isactivenetworkmetered"
-            ], 
-            [
-                0.00040753119659113642, 
-                "restrictedapilist_android.net.connectivitymanager.isactivenetworkmetered"
-            ], 
-            [
-                0.00040753119659113642, 
-                "restrictedapilist_android.net.connectivitymanager.getnetworkinfo"
-            ], 
-            [
-                0.00040753119659113642, 
-                "restrictedapilist_android.net.connectivitymanager.getactivenetworkinfo"
-            ], 
-            [
-                0.0003244891997503711, 
-                "restrictedapilist_android.os.powermanager$wakelock.release"
-            ], 
-            [
-                0.0003244891997503711, 
-                "restrictedapilist_android.os.powermanager$wakelock.acquire"
-            ], 
-            [
-                0.00025306913713123809, 
-                "usedpermissionslist_android.permission.read_contacts"
-            ], 
-            [
-                0.00025306913713123809, 
-                "requestedpermissionlist_android.permission.read_contacts"
-            ], 
-            [
-                0.00021113852812375757, 
-                "suspiciousapilist_landroid/support/v4/app/fragmentactivity.getsystemservice"
-            ], 
-            [
-                0.00014522338757278866, 
-                "restrictedapilist_android.app.notificationmanager.notify"
-            ], 
-            [
-                0.0001438098454802661, 
-                "usedpermissionslist_android.permission.read_phone_state"
-            ], 
-            [
-                0.0001438098454802661, 
-                "requestedpermissionlist_android.permission.read_phone_state"
-            ], 
-            [
-                0.0001324482817005242, 
-                "requestedpermissionlist_android.permission.internet"
-            ], 
-            [
-                8.7496449772227699e-05, 
-                "suspiciousapilist_landroid/content/context.getsystemservice"
-            ], 
-            [
-                8.7496449772227699e-05, 
-                ""
-            ], 
-            [
-                5.8155382412631917e-05, 
-                "intentfilterlist_android.intent.action.main"
-            ], 
-            [
-                -0.0, 
-                "usedpermissionslist_android.permission.write_external_storage"
-            ], 
-            [
-                -0.0, 
-                "usedpermissionslist_android.permission.wake_lock"
-            ], 
-            [
-                -0.0, 
-                "usedpermissionslist_android.permission.vibrate"
-            ], 
-            [
-                -0.0, 
-                "usedpermissionslist_android.permission.restart_packages"
-            ], 
-            [
-                -0.0, 
-                "usedpermissionslist_android.permission.internet"
-            ], 
-            [
-                -0.0, 
-                "usedpermissionslist_android.permission.get_tasks"
-            ], 
-            [
-                -0.0, 
-                "usedpermissionslist_android.permission.get_accounts"
-            ], 
-            [
-                -0.0, 
-                "usedpermissionslist_android.permission.disable_keyguard"
-            ]
-        ]
-    }, 
-    "gen10_06515735-79ae-48e2-a52b-5a8e2a5befee_app-release.data": {
-        "predicted_label": 1.0, 
-        "original_label": 1.0, 
-        "top_features": [
-            [
-                0.00054935045883444764, 
-                "requestedpermissionlist_android.permission.read_sms"
-            ], 
-            [
-                0.00052116346050055712, 
-                "suspiciousapilist_landroid/telephony/telephonymanager.getsubscriberid"
-            ], 
-            [
-                0.00044912097199383011, 
-                "suspiciousapilist_landroid/view/keyevent.getdeviceid"
-            ], 
-            [
-                0.00042783535854882881, 
-                "restrictedapilist_android.support.v4.net.connectivitymanagercompatjellybean.isactivenetworkmetered"
-            ], 
-            [
-                0.00042783535854882881, 
-                "restrictedapilist_android.support.v4.net.connectivitymanagercompathoneycombmr2.isactivenetworkmetered"
-            ], 
-            [
-                0.00042783535854882881, 
-                "restrictedapilist_android.support.v4.net.connectivitymanagercompatgingerbread.isactivenetworkmetered"
-            ], 
-            [
-                0.00042783535854882881, 
-                "restrictedapilist_android.support.v4.net.connectivitymanagercompat$connectivitymanagercompatimpl.isactivenetworkmetered"
-            ], 
-            [
-                0.00042783535854882881, 
-                "restrictedapilist_android.net.connectivitymanager.isactivenetworkmetered"
-            ], 
-            [
-                0.00042783535854882881, 
-                "restrictedapilist_android.net.connectivitymanager.getnetworkinfo"
-            ], 
-            [
-                0.00042783535854882881, 
-                "restrictedapilist_android.net.connectivitymanager.getactivenetworkinfo"
-            ], 
-            [
-                0.00034065601426755166, 
-                "restrictedapilist_android.os.powermanager$wakelock.release"
-            ], 
-            [
-                0.00034065601426755166, 
-                "restrictedapilist_android.os.powermanager$wakelock.acquire"
-            ], 
-            [
-                0.00026567763628366315, 
-                "usedpermissionslist_android.permission.read_contacts"
-            ], 
-            [
-                0.00026567763628366315, 
-                "requestedpermissionlist_android.permission.read_contacts"
-            ], 
-            [
-                0.00022165794579384715, 
-                "suspiciousapilist_landroid/support/v4/app/fragmentactivity.getsystemservice"
-            ], 
-            [
-                0.00015245875803273634, 
-                "restrictedapilist_android.app.notificationmanager.notify"
-            ], 
-            [
-                0.00015097478995118355, 
-                "usedpermissionslist_android.permission.read_phone_state"
-            ], 
-            [
-                0.00015097478995118355, 
-                "requestedpermissionlist_android.permission.read_phone_state"
-            ], 
-            [
-                0.0001390471663629996, 
-                "requestedpermissionlist_android.permission.internet"
-            ], 
-            [
-                9.1855728526243571e-05, 
-                "suspiciousapilist_landroid/content/context.getsystemservice"
-            ], 
-            [
-                9.1855728526243571e-05, 
-                ""
-            ], 
-            [
-                6.1052820236029445e-05, 
-                "intentfilterlist_android.intent.action.main"
-            ], 
-            [
-                -0.0, 
-                "usedpermissionslist_android.permission.write_external_storage"
-            ], 
-            [
-                -0.0, 
-                "usedpermissionslist_android.permission.wake_lock"
-            ], 
-            [
-                -0.0, 
                 "usedpermissionslist_android.permission.vibrate"
             ], 
             [
                 0.0, 
-                "usedpermissionslist_android.permission.send_sms"
+                "usedpermissionslist_com.android.browser.permission.read_history_bookmarks"
             ], 
             [
-                -0.0, 
-                "usedpermissionslist_android.permission.restart_packages"
-            ], 
-            [
-                -0.0, 
-                "usedpermissionslist_android.permission.internet"
-            ], 
-            [
-                -0.0, 
-                "usedpermissionslist_android.permission.get_tasks"
-            ], 
-            [
-                -0.0, 
-                "usedpermissionslist_android.permission.get_accounts"
-            ]
-        ]
-    }, 
-    "gen10_13c17cdf-6dac-49e9-af90-b196fdf9bcfe_app-release.data": {
-        "predicted_label": 1.0, 
-        "original_label": 1.0, 
-        "top_features": [
-            [
-                0.00059251881269440818, 
-                "requestedpermissionlist_android.permission.read_sms"
-            ], 
-            [
-                0.00048441322074537201, 
-                "suspiciousapilist_landroid/view/keyevent.getdeviceid"
-            ], 
-            [
-                0.00046145496849841236, 
-                "restrictedapilist_android.support.v4.net.connectivitymanagercompatjellybean.isactivenetworkmetered"
-            ], 
-            [
-                0.00046145496849841236, 
-                "restrictedapilist_android.support.v4.net.connectivitymanagercompathoneycombmr2.isactivenetworkmetered"
-            ], 
-            [
-                0.00046145496849841236, 
-                "restrictedapilist_android.support.v4.net.connectivitymanagercompatgingerbread.isactivenetworkmetered"
-            ], 
-            [
-                0.00046145496849841236, 
-                "restrictedapilist_android.support.v4.net.connectivitymanagercompat$connectivitymanagercompatimpl.isactivenetworkmetered"
-            ], 
-            [
-                0.00046145496849841236, 
-                "restrictedapilist_android.net.connectivitymanager.isactivenetworkmetered"
-            ], 
-            [
-                0.00046145496849841236, 
-                "restrictedapilist_android.net.connectivitymanager.getnetworkinfo"
-            ], 
-            [
-                0.00046145496849841236, 
-                "restrictedapilist_android.net.connectivitymanager.getactivenetworkinfo"
-            ], 
-            [
-                0.00036742500868984816, 
-                "restrictedapilist_android.os.powermanager$wakelock.release"
-            ], 
-            [
-                0.00036742500868984816, 
-                "restrictedapilist_android.os.powermanager$wakelock.acquire"
-            ], 
-            [
-                0.00028655477587885786, 
-                "usedpermissionslist_android.permission.read_contacts"
-            ], 
-            [
-                0.00028655477587885786, 
-                "requestedpermissionlist_android.permission.read_contacts"
-            ], 
-            [
-                0.00023907598647447635, 
-                "suspiciousapilist_landroid/support/v4/app/fragmentactivity.getsystemservice"
-            ], 
-            [
-                0.00016443907680733228, 
-                "restrictedapilist_android.app.notificationmanager.notify"
-            ], 
-            [
-                0.00014997359262560451, 
-                "requestedpermissionlist_android.permission.internet"
-            ], 
-            [
-                9.9073817688303072e-05, 
-                "suspiciousapilist_landroid/content/context.getsystemservice"
-            ], 
-            [
-                9.9073817688303072e-05, 
-                ""
-            ], 
-            [
-                6.5850394727346513e-05, 
-                "intentfilterlist_android.intent.action.main"
-            ], 
-            [
-                -0.0, 
-                "usedpermissionslist_android.permission.write_external_storage"
-            ], 
-            [
-                -0.0, 
+                0.00010123121752152635, 
                 "usedpermissionslist_android.permission.wake_lock"
-            ], 
-            [
-                -0.0, 
-                "usedpermissionslist_android.permission.vibrate"
-            ], 
-            [
-                0.0, 
-                "usedpermissionslist_android.permission.send_sms"
-            ], 
-            [
-                -0.0, 
-                "usedpermissionslist_android.permission.restart_packages"
-            ], 
-            [
-                0.0, 
-                "usedpermissionslist_android.permission.read_phone_state"
-            ], 
-            [
-                -0.0, 
-                "usedpermissionslist_android.permission.internet"
-            ], 
-            [
-                -0.0, 
-                "usedpermissionslist_android.permission.get_tasks"
-            ], 
-            [
-                -0.0, 
-                "usedpermissionslist_android.permission.get_accounts"
-            ], 
-            [
-                -0.0, 
-                "usedpermissionslist_android.permission.disable_keyguard"
-            ], 
-            [
-                -0.0, 
-                "usedpermissionslist_android.permission.access_wifi_state"
             ]
         ]
     }, 
-    "air.AfterInjuryFrozenAnnaAPK.data": {
+    "app93.data": {
         "predicted_label": -1.0, 
-        "original_label": -1.0, 
+        "original_label": 1.0, 
         "top_features": [
             [
                 0.0, 
-                "suspiciousapilist_landroid/support/v4/app/fragmentactivity.getsystemservice"
+                "requestedpermissionlist_com.android.launcher.permission.uninstall_shortcut"
             ], 
             [
                 0.0, 
-                "suspiciousapilist_landroid/telephony/smsmanager.sendtextmessage"
-            ], 
-            [
-                -0.0, 
-                "suspiciousapilist_landroid/telephony/telephonymanager.getdeviceid"
-            ], 
-            [
-                -0.0, 
-                "suspiciousapilist_landroid/telephony/telephonymanager.getsimcountryiso"
+                "requestedpermissionlist_com.fede.launcher.permission.read_settings"
             ], 
             [
                 0.0, 
+                "requestedpermissionlist_com.htc.launcher.permission.read_settings"
+            ], 
+            [
+                0.0, 
+                "requestedpermissionlist_com.lge.launcher.permission.install_shortcut"
+            ], 
+            [
+                0.0, 
+                "requestedpermissionlist_com.lge.launcher.permission.read_settings"
+            ], 
+            [
+                0.0, 
+                "requestedpermissionlist_com.motorola.dlauncher.permission.install_shortcut"
+            ], 
+            [
+                0.0, 
+                "requestedpermissionlist_com.motorola.dlauncher.permission.read_settings"
+            ], 
+            [
+                0.0, 
+                "requestedpermissionlist_com.motorola.launcher.permission.install_shortcut"
+            ], 
+            [
+                0.0, 
+                "requestedpermissionlist_com.motorola.launcher.permission.read_settings"
+            ], 
+            [
+                0.0, 
+                "requestedpermissionlist_org.adw.launcher.permission.read_settings"
+            ], 
+            [
+                -0.0, 
+                "restrictedapilist_android.app.notificationmanager.notify"
+            ], 
+            [
+                -0.0, 
+                "restrictedapilist_android.location.locationmanager.getlastknownlocation"
+            ], 
+            [
+                -0.0, 
+                "restrictedapilist_android.telephony.telephonymanager.getcelllocation"
+            ], 
+            [
+                -0.0, 
+                "servicelist_.fixedupdate"
+            ], 
+            [
+                0.0, 
+                "servicelist_.iconprovider"
+            ], 
+            [
+                0.0, 
+                "servicelist_.securityservice"
+            ], 
+            [
+                0.0, 
+                "servicelist_com.airpush.android.pushservice"
+            ], 
+            [
+                0.0, 
+                "servicelist_com.apperhand.device.android.androidsdkprovider"
+            ], 
+            [
+                -0.0, 
+                "servicelist_com.google.update.updateservice"
+            ], 
+            [
+                0.0, 
+                "servicelist_com.jasonwu.pushads.mobadsprovider"
+            ], 
+            [
+                -0.0, 
+                "suspiciousapilist_landroid/app/activity.getsystemservice"
+            ], 
+            [
+                -0.0, 
+                "suspiciousapilist_landroid/net/wifi/wifimanager.getwifistate"
+            ], 
+            [
+                0.0, 
+                "suspiciousapilist_landroid/telephony/smsmessage;->getmessagebody"
+            ], 
+            [
+                -0.0, 
                 "suspiciousapilist_landroid/telephony/telephonymanager.getsubscriberid"
             ], 
             [
-                -0.0, 
-                "suspiciousapilist_ljava/io/ioexception;->printstacktrace"
+                0.0, 
+                "suspiciousapilist_landroidtop/specialforces/specialforces.getsystemservice"
             ], 
             [
                 -0.0, 
-                "suspiciousapilist_ljava/lang/runtime;->exec"
+                "suspiciousapilist_system/bin/su"
             ], 
             [
-                -0.0, 
-                "suspiciousapilist_lorg/apache/http/client/methods/httppost"
-            ], 
-            [
-                -0.0, 
-                "urldomainlist_54.87.240.134"
-            ], 
-            [
-                -0.0, 
+                0.0, 
                 "usedpermissionslist_android.permission.access_fine_location"
             ], 
             [
-                -0.0, 
-                "usedpermissionslist_android.permission.access_wifi_state"
-            ], 
-            [
-                -0.0, 
-                "usedpermissionslist_android.permission.disable_keyguard"
-            ], 
-            [
-                -0.0, 
-                "usedpermissionslist_android.permission.get_accounts"
-            ], 
-            [
-                -0.0, 
-                "usedpermissionslist_android.permission.get_tasks"
-            ], 
-            [
                 0.0, 
-                "usedpermissionslist_android.permission.read_contacts"
-            ], 
-            [
-                -0.0, 
-                "usedpermissionslist_android.permission.restart_packages"
-            ], 
-            [
-                0.0, 
-                "usedpermissionslist_android.permission.send_sms"
-            ], 
-            [
-                -0.0, 
                 "usedpermissionslist_android.permission.vibrate"
             ], 
             [
-                -0.0, 
+                0.0, 
                 "usedpermissionslist_android.permission.wake_lock"
             ], 
             [
-                -0.0, 
-                "usedpermissionslist_android.permission.write_external_storage"
-            ], 
-            [
-                3.8157039849881615e-05, 
-                "intentfilterlist_android.intent.action.main"
-            ], 
-            [
-                5.7408366726806701e-05, 
-                ""
-            ], 
-            [
-                5.7408366726806701e-05, 
-                "suspiciousapilist_landroid/content/context.getsystemservice"
-            ], 
-            [
-                8.6902263440322673e-05, 
-                "requestedpermissionlist_android.permission.internet"
-            ], 
-            [
-                9.4356838131700127e-05, 
-                "requestedpermissionlist_android.permission.read_phone_state"
-            ], 
-            [
-                9.4356838131700127e-05, 
-                "usedpermissionslist_android.permission.read_phone_state"
-            ], 
-            [
-                9.5284294537560727e-05, 
-                "restrictedapilist_android.app.notificationmanager.notify"
-            ], 
-            [
-                0.00021290458100472765, 
-                "restrictedapilist_android.os.powermanager$wakelock.acquire"
-            ], 
-            [
-                0.00021290458100472765, 
-                "restrictedapilist_android.os.powermanager$wakelock.release"
-            ], 
-            [
-                0.00028069345133499514, 
-                "suspiciousapilist_landroid/view/keyevent.getdeviceid"
+                0.0, 
+                "usedpermissionslist_com.android.browser.permission.read_history_bookmarks"
             ]
         ]
     }
