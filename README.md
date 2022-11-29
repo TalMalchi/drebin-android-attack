@@ -58,3 +58,10 @@ Who do I talk to?
     In case of issues/difficulties in running the code, please contact me at ANNAMALA002@e.ntu.edu.sg
 
     You may also contact Arief Kresnadi Ignatius Kasim at arie0010@e.ntu.edu.sg or Loo Jia Yi at e140112@e.ntu.edu.sg
+
+*** Video :
+
+
+https://user-images.githubusercontent.com/93086649/204490115-515b9390-107a-4db7-b2c8-8eeab9713115.mp4
+
+
