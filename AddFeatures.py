@@ -44,6 +44,7 @@ def add_permissions_to_manifest(apk_file):
         for permission in permission_list:
             ET.SubElement(root, permission_type, {'android:name': permission})
     tree.write(manifest_file)
+    # Recompile the APK
     subprocess.run(['apktool', 'b', decompiled_dir])
 
 # Get the directory containing the APK files
@@ -54,7 +55,7 @@ for filename in os.listdir(directory):
     if filename.endswith('.apk'):
         apk_file = os.path.join(directory, filename)
         add_permissions_to_manifest(apk_file)
-            # Recompile the APK
+            
     	
 
 
